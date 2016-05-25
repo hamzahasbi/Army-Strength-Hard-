@@ -1,3 +1,3 @@
-# Army-Strength-Hard-
+# Editorials
 
-This is My code for the problem "Army Strength (Hard)" from kattis 
+Check out my blog www.hamzahasbi.me
